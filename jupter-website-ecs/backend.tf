@@ -6,4 +6,4 @@ terraform {
     region = "us-east-1"
     profile = "terraform-online-course"
   }
-} 
+}  
