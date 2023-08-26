@@ -1,2 +1,5 @@
-jupter-website-ecs/.terraform.lock.hcl
-jupter-website-ecs/.terraform/
+*.terraform.lock.hcl
+*.terraform
+*.tfstate
+*.exe
+*.json
